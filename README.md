@@ -52,6 +52,6 @@ I have a keen interest in learning about new technologies, automating and optimi
 ### And finally some fancy statistics
 
 <div aling="center">
-  <img height=200 width=400 src="https://github-readme-stats.vercel.app/api?username=hatedabamboo&show_icons=true&hide_border=true" /> 
-  <img height=200 width=400 src="https://github-readme-stats.vercel.app/api/top-langs?username=hatedabamboo&layout=compact&langs_count=8&hide_border=true" />
+  <img height=200 width=380 src="https://github-readme-stats.vercel.app/api?username=hatedabamboo&show_icons=true&hide_border=true" /> 
+  <img height=200 width=380 src="https://github-readme-stats.vercel.app/api/top-langs?username=hatedabamboo&layout=compact&langs_count=8&hide_border=true" />
 </div>
