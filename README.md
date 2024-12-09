@@ -14,9 +14,9 @@ I like Linux, breakfast food and videogames.
 ### My latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Deploying React application with AWS Amplify](https://notes.hatedabamboo.me/deploying-react-app-with-aws-amplify/)
 - [Hidden files in an S3 bucket](https://notes.hatedabamboo.me/hidden-files-in-s3-bucket/)
 - [How to minimize docker image size: 4 key approaches](https://notes.hatedabamboo.me/minimizing-containerized-applications/)
 - [Solving Sad Servers scenarios: part 2](https://notes.hatedabamboo.me/sad-servers-pt-2/)
 - [First year overview](https://notes.hatedabamboo.me/first-year-overview/)
-- [Solving Sad Servers scenarios: part 1](https://notes.hatedabamboo.me/sad-servers-pt-1/)
 <!-- BLOG-POST-LIST:END -->
