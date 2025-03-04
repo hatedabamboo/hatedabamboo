@@ -14,9 +14,9 @@ I like Linux, breakfast food and videogames.
 ### My latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Bash functions](https://notes.hatedabamboo.me/bash-functions/)
 - [Everything* as code](https://notes.hatedabamboo.me/almost-everything-as-code/)
 - [A Beginner&#39;s Guide to AWS S3 Block Public Access](https://notes.hatedabamboo.me/s3-block-public-access/)
 - [Deploying React application with AWS Amplify](https://notes.hatedabamboo.me/deploying-react-app-with-aws-amplify/)
 - [Hidden files in an S3 bucket](https://notes.hatedabamboo.me/hidden-files-in-s3-bucket/)
-- [How to minimize docker image size: 4 key approaches](https://notes.hatedabamboo.me/minimizing-containerized-applications/)
 <!-- BLOG-POST-LIST:END -->
