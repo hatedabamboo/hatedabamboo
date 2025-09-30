@@ -14,9 +14,9 @@ I like Linux, breakfast food and videogames.
 ### My latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Solving EKS Cluster Games](https://notes.hatedabamboo.me/eks-cluster-games/)
 - [Kubernetes to RDS: secure connections via IAM roles without passwords](https://notes.hatedabamboo.me/kubernetes-to-rds-without-passwords/)
 - [EKS Auto Mode custom NodeClasses and NodePools](https://notes.hatedabamboo.me/eks-custom-nodeclasses-and-nodepools/)
 - [Solving The Big IAM Challenge](https://notes.hatedabamboo.me/the-big-iam-challenge/)
 - [Installing Python dependencies in AWS Lambda: easy pip guide](https://notes.hatedabamboo.me/lambda-pip-modules/)
-- [Bash functions](https://notes.hatedabamboo.me/bash-functions/)
 <!-- BLOG-POST-LIST:END -->
