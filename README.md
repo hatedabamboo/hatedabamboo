@@ -18,5 +18,5 @@ I like Linux, breakfast food and videogames.
 - [Kubernetes to RDS: secure connections via IAM roles without passwords](https://notes.hatedabamboo.me/kubernetes-to-rds-without-passwords/)
 - [EKS Auto Mode custom NodeClasses and NodePools](https://notes.hatedabamboo.me/eks-custom-nodeclasses-and-nodepools/)
 - [Solving The Big IAM Challenge](https://notes.hatedabamboo.me/the-big-iam-challenge/)
-- [Installing Python dependencies in AWS Lambda: easy pip guide](https://notes.hatedabamboo.me/lambda-pip-modules/)
+- [CI/CD guide: store Playwright test results in AWS S3](https://notes.hatedabamboo.me/playwright-test-report-in-s3/)
 <!-- BLOG-POST-LIST:END -->
