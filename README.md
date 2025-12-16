@@ -15,7 +15,7 @@ I like Linux, breakfast food and videogames.
 
 <!-- BLOG-POST-LIST:START -->
 - [Advent of Sysadmin 2025](https://notes.hatedabamboo.me/advent-of-sysadmin-2025/)
-- [Secure Your Wi‑Fi Privacy: Randomize MAC Address with Bash](https://notes.hatedabamboo.me/securing-wifi-with-random-mac/)
+- [Secure Your Wi-Fi Privacy: Randomize MAC Address with Bash](https://notes.hatedabamboo.me/securing-wifi-with-random-mac/)
 - [Centralized EKS monitoring across multiple AWS accounts](https://notes.hatedabamboo.me/centralized-cross-account-eks-monitoring/)
 - [ARG:2025](https://notes.hatedabamboo.me/arg2025/)
 - [Solving EKS Cluster Games](https://notes.hatedabamboo.me/eks-cluster-games/)
