@@ -4,14 +4,6 @@ My name is Kirill and I'm an engineer with expertise in DevOps, Cloud Services, 
 
 I like Linux, breakfast food and videogames.
 
-### Some fancy statistics
-
-<div aling="center">
-    ![Stats](./profile/stats.svg)
-    ![Top Languages](./profile/top-langs.svg)
-    ![Pinned](./profile/pin-readme-tools-github-readme-stats.svg)
-</div>
-
 ### My latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
@@ -21,3 +13,10 @@ I like Linux, breakfast food and videogames.
 - [Advent of Sysadmin 2025](https://notes.hatedabamboo.me/advent-of-sysadmin-2025/)
 - [Secure Your Wi-Fi Privacy: Randomize MAC Address with Bash](https://notes.hatedabamboo.me/securing-wifi-with-random-mac/)
 <!-- BLOG-POST-LIST:END -->
+
+### Some fancy statistics
+
+<div aling="center">
+  <img height=200 width=380 src="./profile/stats.svg" /> 
+  <img height=200 width=380 src="./profile/top-langs.svg" />
+</div>
