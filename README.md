@@ -4,6 +4,8 @@ My name is Kirill and I'm an engineer with expertise in DevOps, Cloud Services, 
 
 I like Linux, breakfast food and videogames.
 
+I have a [website](https://hatedabamboo.me)! And even a [blog](https://notes.hatedabamboo.me)! And once I even created an [ARG](https://notes.hatedabamboo.me/arg2025/)!
+
 ### My latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
