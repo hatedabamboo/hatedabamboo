@@ -17,6 +17,5 @@ I like Linux, breakfast food and videogames.
 ### Some fancy statistics
 
 <div aling="center">
-  <img height=200 width=380 src="./profile/stats.svg" /> 
-  <img height=200 width=380 src="./profile/top-langs.svg" />
+  <img src="./profile/stats.svg" /> 
 </div>
