@@ -9,11 +9,11 @@ I have a [website](https://hatedabamboo.me)! And even a [blog](https://notes.hat
 ### My latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [AWS Lambda MicroVMs](https://notes.hatedabamboo.me/aws-lambda-microvms/)
 - [Zero to llama.cpp: Run Local LLMs on Windows with AMD GPUs](https://notes.hatedabamboo.me/llama-cpp-on-amd-windows/)
 - [Project: bumpflow](https://notes.hatedabamboo.me/project-bumpflow/)
 - [What&#39;s inside the pkpass file?](https://notes.hatedabamboo.me/whats-inside-the-pkpass-file/)
 - [&quot;I think I suck at my job&quot;](https://notes.hatedabamboo.me/i-think-i-suck-at-my-job/)
-- [Migrating from ingress-nginx to Envoy Gateway: A Practical Kubernetes Guide](https://notes.hatedabamboo.me/ingress-nginx-to-envoy-gateway/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Some fancy statistics
