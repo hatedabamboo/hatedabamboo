@@ -9,11 +9,11 @@ I have a [website](https://hatedabamboo.me)! And even a [blog](https://notes.hat
 ### My latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [RDS-Style Point-in-Time Recovery for Self-Hosted PostgreSQL](https://notes.hatedabamboo.me/pitr-for-self-hosted-postgres/)
 - [AWS Lambda MicroVMs](https://notes.hatedabamboo.me/aws-lambda-microvms/)
 - [Zero to llama.cpp: Run Local LLMs on Windows with AMD GPUs](https://notes.hatedabamboo.me/llama-cpp-on-amd-windows/)
 - [Project: bumpflow](https://notes.hatedabamboo.me/project-bumpflow/)
 - [What&#39;s inside the pkpass file?](https://notes.hatedabamboo.me/whats-inside-the-pkpass-file/)
-- [&quot;I think I suck at my job&quot;](https://notes.hatedabamboo.me/i-think-i-suck-at-my-job/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Some fancy statistics
