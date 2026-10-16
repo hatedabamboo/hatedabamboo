@@ -6,6 +6,8 @@ I like Linux, breakfast food and videogames.
 
 I have a [website](https://hatedabamboo.me)! And even a [blog](https://notes.hatedabamboo.me)! And once I even created an [ARG](https://notes.hatedabamboo.me/arg2025/)!
 
+You a fan of old-school browser MMO strategy games in OGame style? Check out my project [Fonte Antiga](https://fonteantiga.com/)!
+
 ### My latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
