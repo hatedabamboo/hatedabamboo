@@ -11,11 +11,11 @@ You a fan of old-school browser MMO strategy games in OGame style? Check out my 
 ### My latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Testing Terraform with AWS Emulator](https://notes.hatedabamboo.me/terraform-tests-with-aws-emulator/)
 - [RDS-Style Point-in-Time Recovery for Self-Hosted PostgreSQL](https://notes.hatedabamboo.me/pitr-for-self-hosted-postgres/)
 - [AWS Lambda MicroVMs](https://notes.hatedabamboo.me/aws-lambda-microvms/)
 - [Zero to llama.cpp: Run Local LLMs on Windows with AMD GPUs](https://notes.hatedabamboo.me/llama-cpp-on-amd-windows/)
 - [Project: bumpflow](https://notes.hatedabamboo.me/project-bumpflow/)
-- [What&#39;s inside the pkpass file?](https://notes.hatedabamboo.me/whats-inside-the-pkpass-file/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Some fancy statistics
